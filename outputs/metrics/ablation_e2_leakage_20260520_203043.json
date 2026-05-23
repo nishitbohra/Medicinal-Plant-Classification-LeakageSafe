@@ -1,0 +1,14 @@
+{
+  "contaminated": {
+    "accuracy": 0.976878612716763,
+    "macro_f1": 0.9608365088539937,
+    "note": "INFLATED \u2014 augmented images leak into test split"
+  },
+  "leakage_safe": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "note": "CORRECT \u2014 split on originals only"
+  },
+  "accuracy_inflation_pp": -2.3121387283236983,
+  "f1_inflation_pp": -3.9163491146006257
+}

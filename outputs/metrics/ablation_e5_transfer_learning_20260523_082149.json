@@ -1,0 +1,13 @@
+{
+  "pretrained": {
+    "macro_f1": 1.0,
+    "accuracy": 1.0,
+    "training_time": 18333.36926794052
+  },
+  "random_init": {
+    "macro_f1": 0.018115942028985508,
+    "accuracy": 0.05747126436781609,
+    "training_time": 4828.500532150269
+  },
+  "pretrained_advantage_pp": 98.18840579710145
+}

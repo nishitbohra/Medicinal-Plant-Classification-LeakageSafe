@@ -1,0 +1,166 @@
+{
+  "backbone": "efficientnet_b4",
+  "evaluation_completed": true,
+  "test_metrics": {
+    "backbone": "efficientnet_b4",
+    "split": "test",
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "weighted_f1": 1.0,
+    "macro_precision": 1.0,
+    "macro_recall": 1.0,
+    "cohen_kappa": 1.0,
+    "macro_auc": 0.9999105145413871,
+    "per_class_f1": {
+      "Arjun Leaf": 1.0,
+      "Curry Leaf": 1.0,
+      "Marsh Pennywort Leaf": 1.0,
+      "Mint Leaf": 1.0,
+      "Neem Leaf": 1.0,
+      "Rubble Leaf": 1.0
+    },
+    "per_class_acc": {
+      "Arjun Leaf": 1.0,
+      "Curry Leaf": 1.0,
+      "Marsh Pennywort Leaf": 1.0,
+      "Mint Leaf": 1.0,
+      "Neem Leaf": 1.0,
+      "Rubble Leaf": 1.0
+    },
+    "per_class_auc": {
+      "Arjun Leaf": 1.0,
+      "Curry Leaf": 0.9994630872483222,
+      "Marsh Pennywort Leaf": 1.0,
+      "Mint Leaf": 1.0,
+      "Neem Leaf": 1.0,
+      "Rubble Leaf": 1.0
+    },
+    "ci_macro_f1": [
+      1.0,
+      1.0
+    ],
+    "ci_accuracy": [
+      1.0,
+      1.0
+    ],
+    "ci_kappa": [
+      1.0,
+      1.0
+    ],
+    "neem_test_count": 10,
+    "neem_f1": 1.0,
+    "confusion_matrix": [
+      [
+        33,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        25,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        32,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        33,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        41
+      ]
+    ],
+    "confusion_matrix_normalized": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ]
+  },
+  "dataset_info": {
+    "test_samples": 174,
+    "num_classes": 6,
+    "class_names": [
+      "Arjun Leaf",
+      "Curry Leaf",
+      "Marsh Pennywort Leaf",
+      "Mint Leaf",
+      "Neem Leaf",
+      "Rubble Leaf"
+    ]
+  },
+  "timestamp": "2026-04-28T05:14:14.149893"
+}

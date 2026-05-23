@@ -1,0 +1,26 @@
+{
+  "hflip_only": {
+    "macro_f1": 1.0,
+    "accuracy": 1.0
+  },
+  "vflip_only": {
+    "macro_f1": 1.0,
+    "accuracy": 1.0
+  },
+  "rotation_only": {
+    "macro_f1": 1.0,
+    "accuracy": 1.0
+  },
+  "colorjitter_only": {
+    "macro_f1": 0.9954278653073834,
+    "accuracy": 0.9942528735632183
+  },
+  "all_combined": {
+    "macro_f1": 1.0,
+    "accuracy": 1.0
+  },
+  "no_augmentation": {
+    "macro_f1": 1.0,
+    "accuracy": 1.0
+  }
+}

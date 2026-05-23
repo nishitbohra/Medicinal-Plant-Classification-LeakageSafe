@@ -1,0 +1,14 @@
+{
+  "timestamp": "20260523_082149",
+  "stage": "ablation",
+  "backbone": "efficientnet_b4",
+  "device": "cuda",
+  "completed_stages": [
+    "ablation"
+  ],
+  "current_epoch": 0,
+  "best_metrics": {},
+  "training_history": {},
+  "checkpoint_path": "",
+  "registry_path": "E:\\medicinal_plant_clf\\outputs\\metrics\\registry_with_splits.csv"
+}

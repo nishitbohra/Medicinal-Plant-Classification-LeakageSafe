@@ -1,0 +1,15 @@
+{
+  "no_augmentation": {
+    "macro_f1": 0.7491680362648104,
+    "accuracy": 0.7528735632183908,
+    "neem_recall": 0.3225806451612903
+  },
+  "with_augmentation": {
+    "macro_f1": 1.0,
+    "accuracy": 1.0,
+    "neem_recall": 1.0,
+    "note": "Baseline test set performance"
+  },
+  "delta_macro_f1": 0.25083196373518957,
+  "note": "Augmentation improves Macro-F1 by 25.08 percentage points, especially critical for Neem Leaf (32.26% -> 100%)"
+}
