@@ -1,10 +1,22 @@
-# Medicinal Plant Leaf Classification System
+# Medicinal Plant Le**📊 Dataset**: [Medicinal Plant Leaves (Mendeley Data)](https://data.mendeley.com/datasets/fj93rrfv2y/1)
+
+## Table of Contentsassification System
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A comprehensive deep learning pipeline for classifying medicinal plant leaves using transfer learning and advanced computer vision techniques. This system implements rigorous data leakage prevention protocols and achieves state-of-the-art performance on botanical classification tasks.
+A comprehensive deep learning pipeline for classifying medicinal plant leaves using transfer learning and advance## Repository Contents
+
+This repository includes:
+- ✅ **Source Code**: Complete implementation (`src/`, `main.py`, `config.py`)
+- ✅ **Documentation**: Comprehensive README with complete usage guide
+- ✅ **Results**: All metrics (JSON), figures (PNG), confusion matrices, ROC curves
+- ✅ **Analysis Scripts**: Cross-validation analysis, ablation test scripts
+- ❌ **Dataset**: Not included (download from [Mendeley Data](https://data.mendeley.com/datasets/fj93rrfv2y/1))
+- ❌ **Model Weights**: Not included due to size (can be regenerated via training)
+
+---echniques. This system implements rigorous data leakage prevention protocols and achieves state-of-the-art performance on botanical classification tasks.
 
 ** Repository**: [github.com/nishitbohra/Medicinal-Plant-Classification-LeakageSafe](https://github.com/nishitbohra/Medicinal-Plant-Classification-LeakageSafe)
 
