@@ -18,11 +18,9 @@ This repository includes:
 
 ---echniques. This system implements rigorous data leakage prevention protocols and achieves state-of-the-art performance on botanical classification tasks.
 
-** Repository**: [github.com/nishitbohra/Medicinal-Plant-Classification-LeakageSafe](https://github.com/nishitbohra/Medicinal-Plant-Classification-LeakageSafe)
+**Repository:** [github.com/nishitbohra/Medicinal-Plant-Classification-LeakageSafe](https://github.com/nishitbohra/Medicinal-Plant-Classification-LeakageSafe)
 
-** Dataset**: [Medicinal Plant Leaves (Mendeley Data)](https://data.mendeley.com/datasets/fj93rrfv2y/1)
-
-** Research Paper**: See `RESEARCH_PAPER_Q1_DRAFT.md` for comprehensive methodology and results
+**Dataset:** [Medicinal Plant Leaves (Mendeley Data)](https://data.mendeley.com/datasets/fj93rrfv2y/1)
 
 ## Table of Contents
 
